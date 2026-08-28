@@ -1,0 +1,46 @@
+.cabecaralho1 {
+  width: 100%; 
+  padding: 10px;
+  height: auto; 
+  min-height: 30px;
+  background-color: lightblue;
+  box-sizing: border-box;
+}
+
+.cabecaralho2 {
+  width: 100%;
+  padding: 10px;
+  height: auto;
+  min-height: 30px;
+  background-color: gray;
+  box-sizing: border-box;
+}
+
+.pagina1 {
+  margin-top: 20px;
+  height: auto; 
+  min-height: 50%;
+  box-sizing: border-box; 
+  padding: 15px; 
+  width: 100%; 
+  background-color: rgb(204, 207, 207);
+  border: 1px solid black;
+}
+
+.bloco1 {
+  height: auto; 
+  min-height: 50px;
+  box-sizing: border-box; 
+  padding: 15px; 
+  width: 10%;
+  background-color: azure;
+  border: 1px solid black;
+  border-radius: 10px;
+  overflow-wrap: break-word; 
+}
+
+.bloco1 img {
+  max-width: 100%; 
+  height: auto;   
+  display: block;  
+}
