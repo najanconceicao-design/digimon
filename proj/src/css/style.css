@@ -45,27 +45,31 @@
   display: block;  
 }
 
---a baixo é apenas sobre pagina sobre, evite escreve classes com o mesmo nome da anterior e das subsequentes
+
 
 .cabecaralho9 {
   width: 100%; 
   padding: 10px;
   height: auto; 
   min-height: 30px;
-  background-color: lightblue;
+  background-color: rgb(89, 147, 167);
   box-sizing: border-box;
-  position: relative;
 }
 
 .cabecaralho9 img{
+  left: 20px;
   border-radius: 3px;
   max-width: 4%;
 }
 
-.cabecaralho9 h1 {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
+.cabecaralho9 h1{
   margin: 0;
+}
+
+.perfil{
+  padding: 10px;
+  width: 40%;
+  height: 40%;
+  background-color: rgb(149, 109, 187);
+  box-sizing: border-box;
 }
