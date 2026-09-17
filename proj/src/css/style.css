@@ -1,4 +1,4 @@
-.cabecaralho1 {
+.cabesalho1 {
   width: 100%; 
   padding: 10px;
   height: auto; 
@@ -7,7 +7,7 @@
   box-sizing: border-box;
 }
 
-.cabecaralho2 {
+.cabesalho2 {
   width: 100%;
   padding: 10px;
   height: auto;
@@ -47,7 +47,7 @@
 
 
 
-.cabecaralho9 {
+.cabesalho9 {
   width: 100%; 
   padding: 10px;
   height: auto; 
@@ -56,13 +56,13 @@
   box-sizing: border-box;
 }
 
-.cabecaralho9 img{
+.cabesalho9 img{
   left: 20px;
   border-radius: 3px;
   max-width: 4%;
 }
 
-.cabecaralho9 h1{
+.cabesalho9 h1{
   margin: 0;
 }
 
